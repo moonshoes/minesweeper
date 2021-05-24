@@ -1,0 +1,7 @@
+SHOW = "show"
+GUESS = "guess"
+UNDO = "undo"
+HELP = "help"
+END = "end"
+RESTART = "restart"
+CLOSE = "close"
